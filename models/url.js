@@ -22,3 +22,11 @@ const URL = mongoose.model('url', urlSchema)
 
 module.exports = URL;
 
+
+//db commands
+//mongosh
+//show dbs
+//use short-url
+//show collection =>urls
+//db.urls.find({})
+
